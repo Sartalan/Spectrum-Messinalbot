@@ -1,2 +1,2 @@
-                                    SPECTRUM - MESSINALDO
-                        -----------------------------------------------
+# Spectrum - Messinalbot
+
