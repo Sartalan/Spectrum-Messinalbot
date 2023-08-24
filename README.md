@@ -4,13 +4,14 @@
 
 
 
-<p align="center">
-  <a href="https://sartalan.github.io/Messinalbot.page/">
-    <img src="https://media.discordapp.net/attachments/1117635233970397286/1143289154038415360/image.png" alt="Bootstrap logo" width="200" height="165">
-  </a>
-</p>
+
 
 <h3 align="center">Messinaldo && Cristionel</h3>
+<p align="center">
+  <a href="https://sartalan.github.io/Messinalbot.page/">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c505d29b-adb3-432b-8f72-bbe80d295bfc/d29rv47-82a38269-5fe0-4376-a129-a0a860ab04a3.png/v1/fill/w_240,h_40/page_divider_by_lithiumharddrive_d29rv47-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDAiLCJwYXRoIjoiXC9mXC9jNTA1ZDI5Yi1hZGIzLTQzMmItOGY3Mi1iYmU4MGQyOTViZmNcL2QyOXJ2NDctODJhMzgyNjktNWZlMC00Mzc2LWExMjktYTBhODYwYWIwNGEzLnBuZyIsIndpZHRoIjoiPD0yNDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TzFDCotRxk54F3k7_tye9ged14-oTBKr3GQPSO4eMRA" class="manzana">
+  </a>
+</p>
 
 
 
@@ -51,10 +52,15 @@ Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar 
 ---
 
 1. Aruzamen Cristian
+<p align="start"><img src="https://cdn.discordapp.com/attachments/601570518197338122/651802276041850880/icon-discord.png" > </p> 
 2. Barrera Alan
+<br>
 3. Domínguez Gabriel
 
 ---
 
 > También queríamos darle un gran agradecimiento a *Jorge Fariña* por ayudarnos a hacer el PCB y, como no también a nuestro profesor *Leguizamón*, por acompañarnos en todo nuestro trayecto
 >
+<p align="end">
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7521c59-9c6d-4e12-8627-6411b1388bfb/ddmgbwy-60b4b68a-ffd3-45e3-8772-545ca4ac1f17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3NTIxYzU5LTljNmQtNGUxMi04NjI3LTY0MTFiMTM4OGJmYlwvZGRtZ2J3eS02MGI0YjY4YS1mZmQzLTQ1ZTMtODc3Mi01NDVjYTRhYzFmMTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CydiJa-HZAEy-jOX2Y67Oiuugi3POmBW1QISPhi3vrs">
+ </p>
