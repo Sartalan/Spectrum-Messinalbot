@@ -54,22 +54,19 @@ Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar 
 
 ---
 
-### ‣ Contactenos
+## ‣ Contactenos
 
-- **Alan** 
+- ### **Alan** 
   
   <div>
-   <a href="">
-     <img src="https://cdn.discordapp.com/attachments/601570518197338122/651802404152672268/icon-steam.png">
-   </a>
+
      <a>
-     <img src="https://cdn.discordapp.com/attachments/601570518197338122/651802276041850880/icon-discord.png">
+     <img width="50" height="50" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/146b9772-f654-4025-91a3-d6428da8b5af/dd6ybyb-3e38cd6a-419a-4863-93e3-834af35eabd6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0NmI5NzcyLWY2NTQtNDAyNS05MWEzLWQ2NDI4ZGE4YjVhZlwvZGQ2eWJ5Yi0zZTM4Y2Q2YS00MTlhLTQ4NjMtOTNlMy04MzRhZjM1ZWFiZDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.svA1xGFGPktS4Vb7KXEOMYp4MouuD5_5kctJqxN7tNA">
    </a>
-     <a>
-     <img src="https://cdn.discordapp.com/attachments/601570518197338122/601987541465301071/icon-wattpad.png">
-   </a>
+
+
   </div>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d199ebc-3312-4ab6-8db5-17c7aca77f59/dapcr2p-2f2ad1f6-8c11-42be-911d-e49170787710.png/v1/fill/w_310,h_22/divider_snow_by_arbuzowearchiwum_dapcr2p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjIiLCJwYXRoIjoiXC9mXC8xZDE5OWViYy0zMzEyLTRhYjYtOGRiNS0xN2M3YWNhNzdmNTlcL2RhcGNyMnAtMmYyYWQxZjYtOGMxMS00MmJlLTkxMWQtZTQ5MTcwNzg3NzEwLnBuZyIsIndpZHRoIjoiPD0zMTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6HP8jIdC_RFvd96qSvkXC5yK9Z28ZKW_pwVVRpRm36o">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8caf42d-4a95-48a9-964c-14ce6134b5c1/d56ihlz-7a7defc6-494b-4169-b76f-d0699ea753f9.png/v1/fill/w_242,h_15/lace_and_hearts_border_by_socksyy_d56ihlz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUiLCJwYXRoIjoiXC9mXC9kOGNhZjQyZC00YTk1LTQ4YTktOTY0Yy0xNGNlNjEzNGI1YzFcL2Q1NmlobHotN2E3ZGVmYzYtNDk0Yi00MTY5LWI3NmYtZDA2OTllYTc1M2Y5LnBuZyIsIndpZHRoIjoiPD0yNDIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kCMhTTXR3XvGBmMD-4ZM6dnc63zh2CVzgwohOPnUccc">
 
 > También queríamos darle un gran agradecimiento a *Jorge Fariña* por ayudarnos a hacer el PCB y, como no también a nuestro profesor *Leguizamón*, por acompañarnos en todo nuestro trayecto
 
