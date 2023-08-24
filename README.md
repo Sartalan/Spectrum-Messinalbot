@@ -2,10 +2,6 @@
   «「Proyecto MessiBot」»
 </h1>
 
-
-
-
-
 <h3 align="center">Messinaldo && Cristionel</h3>
 <p align="center">
   <a href="https://sartalan.github.io/Messinalbot.page/">
@@ -52,15 +48,39 @@ Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar 
 ---
 
 1. Aruzamen Cristian
-<p align="start"><img src="https://cdn.discordapp.com/attachments/601570518197338122/651802276041850880/icon-discord.png" > </p> 
 2. Barrera Alan
-<br>
 3. Domínguez Gabriel
+<!--Redes Sociales-->
 
 ---
 
+### ‣ Contactenos
+
+- **Alan** 
+  
+  <div>
+   <a href="">
+     <img src="https://cdn.discordapp.com/attachments/601570518197338122/651802404152672268/icon-steam.png">
+   </a>
+     <a>
+     <img src="https://cdn.discordapp.com/attachments/601570518197338122/651802276041850880/icon-discord.png">
+   </a>
+     <a>
+     <img src="https://cdn.discordapp.com/attachments/601570518197338122/601987541465301071/icon-wattpad.png">
+   </a>
+  </div>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1d199ebc-3312-4ab6-8db5-17c7aca77f59/dapcr2p-2f2ad1f6-8c11-42be-911d-e49170787710.png/v1/fill/w_310,h_22/divider_snow_by_arbuzowearchiwum_dapcr2p-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjIiLCJwYXRoIjoiXC9mXC8xZDE5OWViYy0zMzEyLTRhYjYtOGRiNS0xN2M3YWNhNzdmNTlcL2RhcGNyMnAtMmYyYWQxZjYtOGMxMS00MmJlLTkxMWQtZTQ5MTcwNzg3NzEwLnBuZyIsIndpZHRoIjoiPD0zMTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.6HP8jIdC_RFvd96qSvkXC5yK9Z28ZKW_pwVVRpRm36o">
+
 > También queríamos darle un gran agradecimiento a *Jorge Fariña* por ayudarnos a hacer el PCB y, como no también a nuestro profesor *Leguizamón*, por acompañarnos en todo nuestro trayecto
->
+
+
+
+
+
+
+<!-- PATO -->
 <p align="end">
  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7521c59-9c6d-4e12-8627-6411b1388bfb/ddmgbwy-60b4b68a-ffd3-45e3-8772-545ca4ac1f17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3NTIxYzU5LTljNmQtNGUxMi04NjI3LTY0MTFiMTM4OGJmYlwvZGRtZ2J3eS02MGI0YjY4YS1mZmQzLTQ1ZTMtODc3Mi01NDVjYTRhYzFmMTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CydiJa-HZAEy-jOX2Y67Oiuugi3POmBW1QISPhi3vrs">
  </p>
+
+
