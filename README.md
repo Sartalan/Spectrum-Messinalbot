@@ -1,20 +1,20 @@
-# Proyecto MessiBot.
+# «「Proyecto MessiBot」»
 
 # *MessiBot.                  //Futbolista*
 
-## /  ¿En qué consiste?
+## ‣  ¿En qué consiste?
 
 ---
 
 - MessiBot consiste en un robot/auto creado con el propósito de participar en la liga nacional de robótica como un robot futbolista. El mismo funciona a través de Bluetooth y es controlado por una aplicación de celular, la cuál se vincula con el ESP32 quien es el encargado de contener un módulo Bluetooth.
 
-## /  Sus características
+## ‣  Sus características
 
 ---
 
 - MessiBot o también llamado Messinaldo cuenta con un mecanismo de tipo pistón qué se encargará de darle una gran ventaja a la hora de competir al poder darle la posibilidad a este de poder “patear” la pelota. También este cuenta con un elegante diseño aerodinámico qué sé ganará la atención de todo aquel que lo vea en combate
 
-## /  Detalles Técnicos
+## ‣  Detalles Técnicos
 
 ---
 
@@ -24,13 +24,13 @@ A más detalles del proyecto o, si simplemente quiere echarle un leve vistazo r�
 
 [Link de web imaginario muajaj]
 
-## / [Extras | Contacto]
+## ‣ [Extras | Contacto]
 
 ---
 
 Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar este apartado del repositorio para, en primeras nombrar a los participantes de Spectrum con sus contactos y, también para ir agregando videos/imágenes de nuestro proyecto ya en funcionamiento.
 
-### Participantes~
+### ‣ Participantes~
 
 ---
 
