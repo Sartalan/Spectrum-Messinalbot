@@ -4,7 +4,7 @@
 
 <h3 align="center">Messinaldo && Cristionel</h3>
 <p align="center">
-  <a href="https://sartalan.github.io/Messinalbot.page/">
+  <a href="#">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c505d29b-adb3-432b-8f72-bbe80d295bfc/d29rv47-82a38269-5fe0-4376-a129-a0a860ab04a3.png/v1/fill/w_240,h_40/page_divider_by_lithiumharddrive_d29rv47-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDAiLCJwYXRoIjoiXC9mXC9jNTA1ZDI5Yi1hZGIzLTQzMmItOGY3Mi1iYmU4MGQyOTViZmNcL2QyOXJ2NDctODJhMzgyNjktNWZlMC00Mzc2LWExMjktYTBhODYwYWIwNGEzLnBuZyIsIndpZHRoIjoiPD0yNDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TzFDCotRxk54F3k7_tye9ged14-oTBKr3GQPSO4eMRA" class="manzana">
   </a>
 </p>
