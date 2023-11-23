@@ -39,3 +39,8 @@
   - Diseño 3D de Messibot en TinkerCAD
     
     [3D design Robot_Cuarto | Tinkercad](https://www.tinkercad.com/things/4UyoocaAXjU-robotcuarto)
+
+    ---
+    
+    Sí quiere echarle un vistazo a nuestro proyecto sin necesidad de descargarlo, siempre puede visitar nuestra web recopilatoria, la cual contiene un simple vistazo de lo explicado anteriormente:
++ Web: https://sartalan.github.io/Spectrum-Messinalbot.page/
