@@ -5,10 +5,6 @@
 
 - Messinalbot fue un proyecto creado por el grupo ***Spectrum*** originalmente con la intención de ser simplemente un robot Futbolista, pero una vez terminado el proyecto y sus respectivos códigos para controlarlo, se decidió adaptar tanto su PCB como su diseño al de un robot Sumo; ambos cumpliendo las reestricciones reglamentarias de la LNR.
 
-### > ¿Por qué dicha decisión?
-
-- Se decidió que, nuestro robot, al verse lo suficientemente cualificado tanto a un nivel de diseño estético como a uno de funcionalidad, le habría sido totalmente desafortunado el no habersele permitido exprimir su máximo potencial como un proyecto reutilizable para aprender las bases que conforman la róbotica. Es por ello -y muchos motivos más- que se terminó por decidir que sería perfeccionado, y así implementado como recurso de aprendizaje en 4to año de Electrónica. Principalmente para aprender programación de una forma más aplicada.
-
 ## > Funcionamiento
 
 - Su circuito consiste fundamentalmente de los siguientes componentes:
