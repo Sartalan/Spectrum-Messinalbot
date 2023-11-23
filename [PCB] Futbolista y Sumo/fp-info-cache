@@ -1,0 +1,1457 @@
+344491477492304
+EESTN5
+128x64OLED
+
+
+0
+4
+4
+EESTN5
+ARDUINO_MINI_PRO_EESTN5
+
+
+0
+34
+34
+EESTN5
+ARDUINO_as_UNO_R3_CONTOUR
+
+
+0
+32
+32
+EESTN5
+Amplificador
+Through hole pin header horizontal
+pin header HEADER-4H
+0
+4
+4
+EESTN5
+Arduino_Mega2560_Shield
+https://store.arduino.cc/arduino-mega-2560-rev3
+
+0
+92
+91
+EESTN5
+BORNERA2
+2-way 5.08mm pitch terminal block, Phoenix MKDS series
+
+0
+2
+2
+EESTN5
+BORNERA2_AZUL
+2-way 5.08mm pitch terminal block, Phoenix MKDS series
+
+0
+2
+2
+EESTN5
+BORNERA2_DUO
+2-way 5.08mm pitch terminal block, Phoenix MKDS series
+
+0
+4
+2
+EESTN5
+BORNERA3
+3-way 5,08mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+EESTN5
+BORNERA3_AZUL
+3-way 5,08mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+EESTN5
+BORNERA3_Vertical
+3-way 5,08mm pitch terminal block, Vertical
+
+0
+3
+3
+EESTN5
+Bateria_Lipo_2S_800mah
+Bateria Lipo Velocista
+Bateria
+0
+0
+0
+EESTN5
+BluePill
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+40
+40
+EESTN5
+Buzzer_12mm
+Buzzer, TMB
+Buzzer
+0
+2
+2
+EESTN5
+CAP_0.1
+Small ceramic capacitor
+C
+0
+2
+2
+EESTN5
+CAP_0.2
+6mm disc ceramic capacitor
+C
+0
+2
+2
+EESTN5
+CAP_ELEC_5x11mm
+Capacitor, pol, cyl 5x11mm
+
+0
+2
+2
+EESTN5
+CAP_ELEC_8x11.5mm
+Capacitor, pol, cyl 8x11.5mm
+
+0
+2
+2
+EESTN5
+CAP_ELEC_10X8mm
+Capacitor, pol, cyl 10x8mm
+
+0
+2
+2
+EESTN5
+CAP_ELEC_SMD_4X5.5
+SMT capacitor, aluminium electrolytic, 4x4.5
+
+0
+2
+2
+EESTN5
+CAP_TAN_A
+SMT capacitor, tantalum size A
+
+0
+2
+2
+EESTN5
+CIAA_Z3RO_TH
+Header_CIAA_Z3RO_TH
+
+0
+40
+40
+EESTN5
+CNY70
+CNY70
+CNY70
+0
+4
+4
+EESTN5
+C_0805
+SMT capacitor, 0805
+
+0
+2
+2
+EESTN5
+C_1206
+SMT capacitor, 1206
+
+0
+2
+2
+EESTN5
+Cable_1,5mm
+Cable 1,5mm
+
+0
+1
+1
+EESTN5
+Cable_3_1,5mm
+
+
+0
+3
+3
+EESTN5
+Cable_Doble_1,5mm
+Cable doble 1,5mm
+
+0
+3
+1
+EESTN5
+Conectores_Poncho
+
+CONN
+0
+80
+80
+EESTN5
+Conn_Pico_Ciaa
+
+
+0
+48
+46
+EESTN5
+Conn_Poncho_Derecha
+
+CONN Poncho
+0
+40
+40
+EESTN5
+DIP-4
+4-lead dip package, row spacing 7.62 mm (300 mils), LongPads
+DIL DIP PDIP 2.54mm 7.62mm 300mil LongPads
+0
+4
+4
+EESTN5
+DIP-4_PC817
+4-lead dip package, row spacing 7.62 mm (300 mils), LongPads
+DIL DIP PDIP 2.54mm 7.62mm 300mil LongPads
+0
+4
+4
+EESTN5
+DIP-8
+8-lead dip package, row spacing 7.62 mm (300 mils), LongPads
+DIL DIP PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
+EESTN5
+DIP-8_ZOCALO_BLANCO
+8-lead dip package, row spacing 7.62 mm (300 mils), LongPads
+DIL DIP PDIP 2.54mm 7.62mm 300mil LongPads
+0
+8
+8
+EESTN5
+DIP-18_300_socket
+18-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils), Socket, LongPads
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket LongPads
+0
+18
+18
+EESTN5
+DIP_16-300
+IC, DIL16 x 0,3"
+DIL
+0
+16
+16
+EESTN5
+DIP_16-300_socket
+IC, DIP16 x 0,3", with socket
+DIP DIL
+0
+16
+16
+EESTN5
+DIP_20-300_socket
+IC, DIL20 x 0,3", with socket
+DIL
+0
+20
+20
+EESTN5
+DIP_28-300_socket
+IC, DIP28 x 0,3", with socket
+DIP
+0
+28
+28
+EESTN5
+DIP_40-600_SOCKET
+IC, DIL40 x 0,6", with socket
+DIL
+0
+40
+40
+EESTN5
+DO-41
+Diode, DO-41 package
+Diode DO-41 DO41
+0
+2
+2
+EESTN5
+DO-201AD
+D, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+D DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+EESTN5
+DRV8825
+Modulo DRV8825-A4988
+
+0
+16
+16
+EESTN5
+DRV8833_Pololu
+Modulo DRV8833 Carrier
+
+0
+16
+16
+EESTN5
+DUAL_PAD_TH_SMD_2x5mm
+PAD_SMD_2x5mm
+
+0
+2
+1
+EESTN5
+Diode_Bridge_Round_D8.9mm
+4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
+diode bridge 8.9mm 8.85mm WOB pitch 5.08mm
+0
+4
+4
+EESTN5
+Dip_SW_2-300
+CTS Electrocomponents, Series 206/208
+
+0
+4
+4
+EESTN5
+Dip_SW_3-300
+Dip switch, DIL6 x 0,3"
+DIP
+0
+6
+6
+EESTN5
+Dip_SW_4-300
+CTS Electrocomponents, Series 206/208
+
+0
+8
+8
+EESTN5
+ESP-12E
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+22
+22
+EESTN5
+ESP-WROOM-32
+
+
+0
+64
+39
+EESTN5
+ESP32_DEVKITC
+ESP32_DEVKITC
+ESP32
+0
+38
+38
+EESTN5
+ESP32_DEVKIT_V1_DOIT
+ESP32 DEVKIT V1 DOIT
+ESP32
+0
+36
+36
+EESTN5
+ESP8266
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+EESTN5
+FUSIBLE
+
+
+0
+4
+2
+EESTN5
+HC-05
+Bluetooth module
+BT HC-05 HC05
+0
+6
+6
+EESTN5
+HC49
+Crystal, HC-49S
+QUARTZ
+0
+2
+2
+EESTN5
+HC49S
+Crystal, HC-49S
+QUARTZ
+0
+2
+2
+EESTN5
+HC49_SMD
+Crystal, HC-49/SMD
+QUARTZ
+0
+2
+2
+EESTN5
+HDSP-4830
+10-Element Red Bar Graph Array https://docs.broadcom.com/docs/AV02-1798EN
+10-Element Red Bar Graph Array
+0
+20
+20
+EESTN5
+HEADER-4H
+Through hole pin header horizontal
+pin header HEADER-4H
+0
+4
+4
+EESTN5
+HTSSOP-16
+SOIC Wide, 16 pins
+
+0
+16
+16
+EESTN5
+Header_2x05x2.54mm_Vertical
+http://www.farnell.com/datasheets/1520732.pdf
+connector multicomp MC9A MC9A12
+0
+10
+10
+EESTN5
+JST-3V
+JST 3 pin Vertical
+JST
+0
+3
+3
+EESTN5
+JST-4H
+JST PH series connector, S4B-PH-KL
+
+0
+4
+4
+EESTN5
+JST-4V
+JST PH series connector, 4 Pines Vertical
+JST-4V JST 
+0
+4
+4
+EESTN5
+Joystick_PS2
+
+
+0
+5
+5
+EESTN5
+Jumper
+Pin strip 2pin
+CONN DEV
+0
+2
+2
+EESTN5
+Jumper_Alto
+Pin strip 2pin
+CONN DEV
+0
+2
+2
+EESTN5
+KiCad-Logo2_8mm_SilkScreen
+KiCad Logo
+Logo KiCad
+0
+0
+0
+EESTN5
+LCD_16x2
+LCD Module, 16x2
+
+0
+16
+16
+EESTN5
+LED_1206
+SMD LED_ 1206
+
+0
+2
+2
+EESTN5
+LFPAK56-5
+LFPAK56-5
+
+0
+5
+5
+EESTN5
+LOGO-CIAA
+
+
+0
+0
+0
+EESTN5
+LOGO_Cu
+
+
+0
+0
+0
+EESTN5
+LOGO_EDU_CIAA
+
+
+0
+0
+0
+EESTN5
+LOGO_EESTN5
+
+
+0
+0
+0
+EESTN5
+LOGO_EESTN5_F.Cu
+
+
+0
+0
+0
+EESTN5
+LOGO_INET
+
+
+0
+0
+0
+EESTN5
+LOGO_INET_CHICO
+
+
+0
+0
+0
+EESTN5
+Led_0805
+SMD LED, 0805
+
+0
+2
+2
+EESTN5
+Logo_EESTN5_Cu
+
+
+0
+0
+0
+EESTN5
+Logo_MARK4
+
+
+0
+0
+0
+EESTN5
+Logo_MARK4_FSilks
+
+
+0
+0
+0
+EESTN5
+Logo_OSHW_6x6mm_FCu
+Open Hardware Logo, 6x6mm
+
+0
+0
+0
+EESTN5
+Logo_Poncho
+
+
+0
+0
+0
+EESTN5
+Logo_Rayo
+
+
+0
+0
+0
+EESTN5
+Logo_Robotica
+
+
+0
+0
+0
+EESTN5
+Logo_Stark_13.5x9.9
+
+
+0
+0
+0
+EESTN5
+Logo_Stark_FCu
+
+
+0
+0
+0
+EESTN5
+Logo_Stark_FSilk
+
+
+0
+0
+0
+EESTN5
+Logo_Zarate
+
+
+0
+0
+0
+EESTN5
+Logo_Zarate_Nombre
+
+
+0
+0
+0
+EESTN5
+Logo_potter
+
+
+0
+0
+0
+EESTN5
+Logo_silk_OSHW_6x6mm
+Open Hardware Logo, 6x6mm
+
+0
+0
+0
+EESTN5
+Logo_silk_OSHW_12x13mm
+Open Hardware Logo, 12x13mm
+
+0
+0
+0
+EESTN5
+MP6500_POLOLU
+Modulo MP6500
+MP6500
+0
+16
+16
+EESTN5
+PAD_SMD_2x5mm
+PAD_SMD_2x5mm
+
+0
+1
+1
+EESTN5
+PAD_SMD_3x6mm
+PAD_SMD_3x6mm
+
+0
+1
+1
+EESTN5
+PTC_1210
+PTC Resettable Fuse, 1210
+ptc, fuse
+0
+2
+2
+EESTN5
+PUSH_SWITCH_THT
+
+
+0
+4
+4
+EESTN5
+Pin_Header_2
+Pin socket 6pin
+CONN DEV
+0
+2
+2
+EESTN5
+Pin_Header_3
+Pin socket 3 pin
+CONN DEV
+0
+3
+3
+EESTN5
+Pin_Header_5
+Pin socket 6pin
+CONN DEV
+0
+5
+5
+EESTN5
+Pin_Header_6
+Pin socket 6pin
+CONN DEV
+0
+6
+6
+EESTN5
+Pin_Header_Angled_1x04
+Through hole pin header horizontal
+pin header HEADER-4H
+0
+4
+4
+EESTN5
+Pin_Header_Angled_1x06
+Through hole pin header
+pin header
+0
+6
+6
+EESTN5
+Pin_Header_Angled_1x08
+Through hole pin header
+pin header
+0
+8
+8
+EESTN5
+Pin_Header_Angled_1x10
+Through hole pin header
+pin header
+0
+10
+10
+EESTN5
+Pin_Header_Straight_1x08
+Through hole pin header
+pin header
+0
+8
+8
+EESTN5
+Pin_Header_Straight_1x10
+Through hole pin header 10
+pin header
+0
+10
+10
+EESTN5
+Pin_Header_Straight_1x19
+Through hole pin header
+pin header
+0
+19
+19
+EESTN5
+Pin_Header_Straight_2x20
+Through hole pin header
+pin header
+0
+40
+40
+EESTN5
+Pin_Socket_Straight_2x04_Pitch2.54mm
+Through hole straight pin header, 2x04, 2.54mm pitch, double rows
+Through hole pin header THT 2x04 2.54mm double row
+0
+8
+8
+EESTN5
+Pin_Strip_2_90
+Pin socket 6pin
+CONN DEV
+0
+2
+2
+EESTN5
+Pin_Strip_3
+Pin strip 3x2pin
+CONN DEV
+0
+3
+3
+EESTN5
+Pin_Strip_3_90
+Pin socket 6pin
+CONN DEV
+0
+3
+3
+EESTN5
+Pin_Strip_5
+Pin socket 5pin
+CONN DEV
+0
+5
+5
+EESTN5
+Pin_Strip_Angled_5
+Pin Strip Angled 5pin
+CONN DEV
+0
+5
+5
+EESTN5
+Pin_strip_2
+Pin strip 2pin
+CONN DEV
+0
+2
+2
+EESTN5
+Pista_Velocista
+Pista Velocista
+
+0
+0
+0
+EESTN5
+Plantilla_Pico
+
+
+0
+0
+0
+EESTN5
+Pololu-G2-18v17
+Pololu G2-18v17 motor driver
+MOTOR DRIVER POLOLU
+0
+3
+3
+EESTN5
+Pololu_Ball_Caster_3_8
+Hole 2mm
+
+0
+2
+2
+EESTN5
+Pololu_Breakout-16_15.2x20.3mm
+
+
+0
+16
+16
+EESTN5
+Pololu_Micro_Con_Soporte_Simple
+Pololu Micro Gear Motor W/Mount
+
+0
+2
+2
+EESTN5
+Pololu_Micro_Gear_Motor_W_Mount
+Pololu Micro Gear Motor W/Mount
+
+0
+4
+4
+EESTN5
+Potenciometro
+
+
+0
+3
+3
+EESTN5
+Potenciometro_Perilla_Aluminio
+
+
+0
+3
+3
+EESTN5
+Potenciometro_mini
+
+
+0
+3
+3
+EESTN5
+Prueba_Logo_Edge_Cut
+
+
+0
+0
+0
+EESTN5
+Pulsador_4_SMD
+
+
+0
+4
+4
+EESTN5
+Pulsador_SMD_2_ALTO
+SMD Pushbutton
+
+0
+2
+2
+EESTN5
+Pulsador_SMD_2_BAJO
+SMD Pushbutton
+
+0
+2
+2
+EESTN5
+Pulsador_TH_4
+
+
+0
+4
+4
+EESTN5
+QRE1113GR
+
+
+0
+4
+4
+EESTN5
+RES0.1
+Resistor, RC03 vertical
+
+0
+2
+2
+EESTN5
+RES0.2
+Resistor, RC03 vertical
+
+0
+2
+2
+EESTN5
+RES0.3
+Resistor, RC03
+R
+0
+2
+2
+EESTN5
+R_0805
+
+
+0
+2
+2
+EESTN5
+R_1206
+SMT resistor, 1206
+
+0
+2
+2
+EESTN5
+Relay_C
+relay, Tianbo HJR-3FF series
+
+0
+5
+5
+EESTN5
+Relay_Doble_Inversor
+Relay DPDT Finder 40.52, Pitch 5mm, https://www.finder-relais.net/de/finder-relais-serie-40.pdf
+Relay DPDT Finder 40.52 Pitch 5mm
+0
+8
+8
+EESTN5
+SO-6L_10x3.84mm_P1.27mm
+6-pin plasic small outline 7,5mm long https://toshiba.semicon-storage.com/info/docget.jsp?did=53548&prodName=TLP2770
+SO-6L
+0
+6
+6
+EESTN5
+SOD80C
+SOD80C
+
+0
+2
+2
+EESTN5
+SOIC-8
+SOIC Wide, 16 pins
+
+0
+8
+8
+EESTN5
+SOIC-8_Hand_Soldering
+SOIC Wide, 16 pins
+
+0
+8
+8
+EESTN5
+SOIC-16
+SOIC Wide, 16 pins
+
+0
+16
+16
+EESTN5
+SOIC-18
+SOIC Wide, 16 pins
+
+0
+18
+16
+EESTN5
+SOIC-24
+24-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+24
+24
+EESTN5
+SOIC-28
+28-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+28
+28
+EESTN5
+SOT-23-5
+SOT23-5
+
+0
+5
+5
+EESTN5
+SOT-110
+
+
+0
+9
+9
+EESTN5
+SOT23
+SOT23
+
+0
+3
+3
+EESTN5
+SOT223
+SOT223
+
+0
+4
+4
+EESTN5
+SSOP-8
+SOIC PowerPad, 8 pins
+
+0
+8
+8
+EESTN5
+SW_PUSH-12mm
+SW PUSH 12mm 
+tact sw push 12mm
+0
+4
+2
+EESTN5
+SW_SPDT_TH_100Mils_VERTICAL
+Pin socket 6pin
+CONN DEV
+0
+3
+3
+EESTN5
+SW_SPDT_TH_Horizontal
+Switch inverseur
+SWITCH DEV
+0
+5
+5
+EESTN5
+SW_SPDT_TH_Vertical
+Switch inverseur
+SWITCH DEV
+0
+3
+3
+EESTN5
+SW_SPST_EVQPE1
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE7.pdf
+
+0
+2
+2
+EESTN5
+Separador_M3_5mm
+Separador M3 5mm de alto
+
+0
+1
+1
+EESTN5
+Separador_M3_10mm
+Separador M3 10mm de alto
+
+0
+1
+1
+EESTN5
+Socket_Strip_Angled_1x08
+Through hole socket strip
+socket strip
+0
+8
+8
+EESTN5
+Socket_Strip_Straight_1x08
+Through hole socket strip
+socket strip
+0
+8
+8
+EESTN5
+Soic_8_TH
+
+
+0
+8
+8
+EESTN5
+Step_Down_Mini
+Fuente DC-DC 4,5-24V to 5V 3A https://articulo.mercadolibre.com.ar/MLA-771060942-fuente-step-down-dc-mini-45v-24v-a-5v-3a-regulable-mona-_JM?quantity=1&variation=40464181007#position=2&type=item&tracking_id=6cd2dc7e-f714-45ae-a47f-c39671beeb0e
+Step-Down-Mini
+0
+4
+4
+EESTN5
+TB6612_Breakout
+
+
+0
+16
+16
+EESTN5
+TCRT5000
+
+
+0
+7
+5
+EESTN5
+TO-20
+
+
+0
+3
+3
+EESTN5
+TO-220
+TO220
+
+0
+3
+3
+EESTN5
+TO-220-2
+TO220
+
+0
+3
+3
+EESTN5
+TQFP-32_7x7mm_Pitch0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+EESTN5
+TRIMER_V
+trimmer, Piher PT6-xV
+trimmer
+0
+3
+3
+EESTN5
+TSSP58X
+IR Receiver Vishay TSOP-xxxx, MINICAST package
+IR Receiver Vishay TSOP-xxxx MINICAST
+0
+3
+3
+EESTN5
+Teensy40
+
+
+0
+34
+34
+EESTN5
+Teensy40_B
+Sin los pines posteriores
+
+0
+29
+29
+EESTN5
+Tornillo_M3_8mm
+Tornillo M3 8mm Con Tuerca
+
+0
+1
+1
+EESTN5
+USB_B
+USB B-type receptacle, Lumberg P/N 2411-02
+USB
+0
+6
+4
+EESTN5
+Wemos_D1_Mini_Board
+
+
+0
+16
+16
+EESTN5
+arduino_nano_header
+Arduino Nano Header
+Arduino
+0
+30
+30
+EESTN5
+esp32-s2-wrooom
+
+
+0
+63
+43
+EESTN5
+hole_1mm
+Hole 1mm
+
+0
+1
+1
+EESTN5
+hole_2mm
+Hole 2mm
+
+0
+1
+1
+EESTN5
+hole_3mm
+Hole 3mm
+
+0
+1
+1
+EESTN5
+led_3mm_clear
+3mm clear led
+led
+0
+2
+2
+EESTN5
+led_3mm_green
+3mm green led
+led
+0
+2
+2
+EESTN5
+led_3mm_red
+3mm red led
+led
+0
+2
+2
+EESTN5
+led_3mm_yellow
+3mm yellow led
+led
+0
+2
+2
+EESTN5
+led_5mm_clear
+5mm clear led
+led
+0
+2
+2
+EESTN5
+led_5mm_green
+5mm green led
+led
+0
+2
+2
+EESTN5
+led_5mm_red
+5mm red led
+led
+0
+2
+2
+EESTN5
+led_5mm_yellow
+5mm yellow led
+led
+0
+2
+2
+EESTN5
+micro_bite
+
+
+0
+0
+0
+EESTN5
+nRF24L01_Breakout
+nRF24L01 breakout board
+nRF24L01 adapter breakout
+0
+8
+8
+EESTN5
+pad_1_5mm
+Pad 1,5mm
+
+0
+1
+1
+EESTN5
+pad_2mm
+Pad 2mm
+
+0
+1
+1
+EESTN5
+pad_3mm
+Pad 3mm
+
+0
+1
+1
+EESTN5
+pad_motor_pololu
+Pad para los bornes de conexion del micro motor pololu
+
+0
+2
+2
+EESTN5
+pin_socket_6
+Pin socket 6pin
+CONN DEV
+0
+6
+6
+EESTN5
+pin_strip_3x2
+Pin strip 3x2pin
+CONN DEV
+0
+6
+6
+EESTN5
+pin_strip_3x2-90
+Pin strip 3x2pin 90
+CONN DEV
+0
+6
+6
+EESTN5
+pin_strip_4
+Pin strip 4pin
+CONN DEV
+0
+4
+4
+EESTN5
+pin_strip_6
+Pin strip 6pin
+CONN DEV
+0
+6
+6
+EESTN5
+sod123
+SOD123
+
+0
+2
+2
+EESTN5
+to92
+TO92
+
+0
+3
+3
+EESTN5
+to220
+TO220
+
+0
+3
+3

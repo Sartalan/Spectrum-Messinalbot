@@ -46,22 +46,31 @@ void loop() {
     Serial.println(incoming);
     
     switch(incoming){
+      
       case 70: // F en ASCII
        Adelante() ; 
         Serial.print("Adelante");
       break;
+
       case 66: // B en ASCII
        Retroceder();
        Serial.print("Retroceder");
       break;
+
       case 76: // L en ASCII
        Izquierda();
        Serial.print("Izquierda"); 
       break;
+    
       case 82: // R en ASCII
        Derecha();
        Serial.print("Derecha");
       break;
+
+
+
+
+
       case 0: // 0 en ASCII
       veloc = 0;
       break;
