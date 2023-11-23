@@ -1,6 +1,5 @@
 # [Informe del Proyecto]
 
----
 
 ## > Messinalbot.
 
@@ -12,8 +11,6 @@
 
 ## > Funcionamiento
 
----
-
 - Su circuito consiste fundamentalmente de los siguientes componentes:
   1. Un microcontrolador ESP32 en reemplazo del famoso Arduino que le permite compilar código del mismo IDE, y es más; poseer la posibilidad de crear proyectos WIFI y Bluetooth por sus respectivos módulos incorporados.
   2. Un circuito integrado DRV8833 como Puente H para así controlar su movimiento (a más información de su funcionamiento, consultar su datasheet)
@@ -24,8 +21,6 @@
 ## ***Pinout del ESP32:***
 
 *Datasheet:* https://docs.ai-thinker.com/_media/esp32/docs/nodemcu-32s_product_specification.pdf
-
----
 
 ## > Código:
 
