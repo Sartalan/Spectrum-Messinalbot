@@ -17,39 +17,33 @@
 
 ## ‣  ¿En qué consiste?
 
----
 
-- MessiBot consiste en un robot/auto creado con el propósito de participar en la liga nacional de robótica como un robot futbolista. El mismo funciona a través de Bluetooth y es controlado por una aplicación de celular, la cuál se vincula con el ESP32 quien es el encargado de contener un módulo Bluetooth.
+- Messinalbot consiste en un robot/auto creado con el propósito de participar en la liga nacional de robótica como un robot futbolista. El mismo funciona a través de Bluetooth; controlado por una aplicación de celular, y a través de Wifi; controlado por una web de tipo control remoto la cual se vincula con el ESP32, quien es el encargado de alojar dicha web en su propio servidor.
 
-## ‣  Sus características
-
----
-
-- MessiBot o también llamado Messinaldo cuenta con un mecanismo de tipo pistón qué se encargará de darle una gran ventaja a la hora de competir al poder darle la posibilidad a este de poder “patear” la pelota. También este cuenta con un elegante diseño aerodinámico qué sé ganará la atención de todo aquel que lo vea en combate
 
 ## ‣  Detalles Técnicos
 
----
 
-- Entrando más en el apartado técnico de Messinaldo y el cómo este funciona; Messinaldo cuenta con un ESP32 como microcontrolador principal qué se encarga de hacer la mayor parte de las operaciones y, es básicamente, el centro de todo el proyecto. A su vez, esté microcontrolador y sus motores estan conectados a una batería de Notebook de 10v qué está encastrada detrás de este y de forma horizontal para cumplir completamente con las limitaciones de espacio impuestas por las reglas de la LNR.
+
+- Entrando más en el apartado técnico de Messinaldo y el cómo este funciona: Messinaldo cuenta con un ESP32 como microcontrolador principal qué se encarga de hacer la mayor parte de las operaciones, y es básicamente el centro de todo el proyecto. A su vez, éste microcontrolador y sus motores estan conectados a una batería de Notebook de 10v qué está encastrada detrás de este y de forma horizontal para cumplir completamente con las limitaciones de espacio impuestas por las reglas de la LNR.
 
 A más detalles del proyecto o, si simplemente quiere echarle un leve vistazo rápido al como es tanto nuestro PCB, código, o el diseño de Messinaldo sin necesidad de clonar nuestro repositorio, siempre puede visitar nuestra web recopilatoria: 
 
-[Link de web imaginario muajaj]
++ [Web de Cristionel Messinaldo](https://sartalan.github.io/Spectrum-Messinalbot.page/)
 
 ## ‣ [Extras | Contacto]
 
----
 
-Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar este apartado del repositorio para, en primeras nombrar a los participantes de Spectrum con sus contactos y, también para ir agregando videos/imágenes de nuestro proyecto ya en funcionamiento.
+
+Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar este apartado del repositorio para, en primeras nombrar a los participantes de Spectrum con sus contactos, y también para ir agregando videos/imágenes de nuestro proyecto ya en funcionamiento.
 
 ### ‣ Participantes~
 
 ---
 
-1. Aruzamen Cristian
-2. Barrera Alan
-3. Domínguez Gabriel
+1. *Aruzamen Cristian*
+2. *Barrera Alan*
+3. *Domínguez Gabriel*
 <!--Redes Sociales-->
 
 ---
@@ -79,5 +73,3 @@ Finalizando todo lo qué le concierne a nuestro proyecto, queríamos aprovechar 
 <p align="end">
  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b7521c59-9c6d-4e12-8627-6411b1388bfb/ddmgbwy-60b4b68a-ffd3-45e3-8772-545ca4ac1f17.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I3NTIxYzU5LTljNmQtNGUxMi04NjI3LTY0MTFiMTM4OGJmYlwvZGRtZ2J3eS02MGI0YjY4YS1mZmQzLTQ1ZTMtODc3Mi01NDVjYTRhYzFmMTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CydiJa-HZAEy-jOX2Y67Oiuugi3POmBW1QISPhi3vrs">
  </p>
-
-
